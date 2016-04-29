@@ -1,5 +1,5 @@
-### Projects and Ideas
+### Projects in progress
 ***
 
-A collection of projects and ideas that I want to work on.
+A collection of projects and ideas that I'm working on.
 
